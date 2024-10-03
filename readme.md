@@ -11,12 +11,12 @@ Cette app permet de transférer des NFTs vers l'adresse de bridge Arianee. Elle 
 
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/radia2/bridge-front.git
+   git clone https://github.com/radia2/front-bridge.git
    ```
 
 2. Naviguez dans le répertoire du projet :
    ```
-   cd bride-front
+   cd front-bridge
    ```
 
 3. Installez les dépendances :
